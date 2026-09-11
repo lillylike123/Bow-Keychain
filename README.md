@@ -14,12 +14,19 @@ This is a PCB bow keychain I made. It uses a 555 timer, and when you press the b
 
 ## BOM
 2 Battery holder
+
 1 10uF Capacitor
+
 2 LM555 Timer IC
+
 3 NPN Transistor (2N3904)
+
 6 LED (5mm)
+
 5 Resistor
+
 1 Photoresistor (LDR)
+
 1 Push Button
 
 Made by @amira.nava03 on Slack <3
