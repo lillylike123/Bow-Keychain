@@ -15,10 +15,7 @@ This is a PCB bow keychain I made. It uses a 555 timer, and when you press the b
 ## BOM
 
 
-## Slack username
-
-amira.nava03
-
+Made by @amira.nava03 on Slack <3
 
 
 
