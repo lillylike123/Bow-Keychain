@@ -4,7 +4,7 @@
 This is a PCB bow keychain I made. It uses a 555 timer, and when you press the button and it is dark outside, the lights will turn on! It also includes some cute silkscreen to make it visually appealing!!!
 
 ## Schematic 
-<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/27eb6853-eca1-4f56-9889-9868e94efab3" />
+
 
 
 ## PCB
