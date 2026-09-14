@@ -9,10 +9,12 @@ This is a PCB bow keychain I made. It uses a 555 timer, and when you press the b
 
 
 ## PCB
-<img width="1691" height="1423" alt="image" src="https://github.com/user-attachments/assets/4001a403-c1ec-4179-b44e-61183e00eb13" />
+<img width="868" height="718" alt="image" src="https://github.com/user-attachments/assets/293ec2f4-7b0b-4c41-8545-741f93bf33fa" />
+
 
 ## 3D View
-<img width="796" height="714" alt="image" src="https://github.com/user-attachments/assets/1e6788ce-f301-42dd-b03f-f25a62fb9e2f" />
+<img width="956" height="722" alt="image" src="https://github.com/user-attachments/assets/21113530-2bac-4968-8048-73cee68ba89d" />
+
 
 ## BOM
 2 Battery holder
